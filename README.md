@@ -1,10 +1,11 @@
-File Compression & Backup
-📌 Task Overview
+FILE COMPRESSION & BACKUP
+
+ Task Overview
 
 This task focuses on understanding Linux backup strategies using command-line tools.
 The goal is to safely store files by compressing them, automating backups, and scheduling them using cron.
 
-🛠️ Tools & Technologies Used
+ Tools & Technologies Used
 
 tar – Archive multiple files/directories into one file
 
